@@ -21,6 +21,7 @@
     "import/no-unresolved": "off",
     "linebreak-style": ["off", "windows"],
     "indent": ["off", "tab"],
-    "react/jsx-filename-extension": "off"
+    "react/jsx-filename-extension": "off",
+    "comma-dangle": "off"
   }
 }
